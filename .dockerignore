@@ -1,0 +1,4 @@
+dist
+.swc
+node_modules
+*.env
